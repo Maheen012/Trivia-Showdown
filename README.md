@@ -198,6 +198,7 @@ The **demo video** is available in the main project folder and can be viewed dir
 
 
 
+*This project was originally submitted as coursework for CSCI2020U Software Systems Development & Integration at Ontario Tech University, Winter 2025.*
 
 
    
