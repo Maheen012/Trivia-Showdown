@@ -83,7 +83,8 @@ The **demo video** is available in the main project folder and can be viewed dir
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/OntarioTech-CS-program/w25-csci2020u-finalproject-w25-team02.git
+   https://github.com/Maheen012/Trivia-Showdown.git
+   ```
 
 2. **Open your file in IntelliJ**
     Open IntelliJ → `File` → `Open`
