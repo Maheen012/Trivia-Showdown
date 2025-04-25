@@ -33,12 +33,14 @@
 - 📈 Real-time score tracking
 - 🏆 Final scoreboard with winner announcement
 
-**Developed by:**  
-Aminah Ahmed,
-Maheen Mohammad Alim,
-Ruqiyah Azim,
-Samia Irfan.
+## Project Team Roles
 
+| Name                  | Role                |
+|-----------------------|---------------------|
+| Aminah Ahmed          | Back End Developer  |
+| Maheen Mohammad Alim  | Back End Developer  |
+| Ruqiyah Azim          | Front End Developer |
+| Samia Irfan           | Front End Developer |
 ---
 
 ## Video Demo
