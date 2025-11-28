@@ -46,9 +46,6 @@
 ## Video Demo
 The **demo video** is available in the main project folder and can be viewed directly from the repository.
 
-📽️ [Alternatively, click here to watch it on Google Drive](https://drive.google.com/file/d/1-tOLFJd59jlLwKpyTG0VULnFfa4uS2Ze/view?usp=sharing)
-
-
 ## Screenshots
 
 ### Main Menu
